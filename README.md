@@ -1,7 +1,8 @@
+### Atividade 02
+### Planejamento de Rotas de Entrega
+Objetivo: Planejar rotas de entrega eficientes para uma frota de veículos, minimizando o tempo e o custo.  
 ### Cenário
-
 Você é o gerente de logística de uma empresa de entregas que atende a uma cidade com vários pontos de entrega. Sua tarefa é planejar as rotas de entrega para uma frota de veículos, de forma que o tempo de viagem total e os custos operacionais sejam minimizados. Considere as seguintes informações:
-
 - **Pontos de Entrega:**
     - Ponto A: 20 pacotes
     - Ponto B: 15 pacotes
@@ -16,7 +17,6 @@ Você é o gerente de logística de uma empresa de entregas que atende a uma cid
     - B -> D: 7 km
     - C -> D: 3 km
  ### Tarefas
-
 1. **Divisão dos Pacotes:**
     - Determine como os pacotes serão divididos entre os veículos, considerando a capacidade máxima de 30 pacotes por veículo.
 2. **Planejamento de Rotas:**
